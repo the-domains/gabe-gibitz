@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-05-14T19:01:17.383Z'
-dateModified: '2016-05-14T19:00:55.075Z'
+datePublished: '2016-05-14T19:09:55.960Z'
+dateModified: '2016-05-14T19:01:27.211Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-14-christmas-lights.md
 authors: []
 publisher:
   name: null
@@ -16,7 +17,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-14-christmas-lights.md
 url: christmas-lights/index.html
 _type: Article
 
