@@ -1,4 +1,20 @@
-analytics: {}
+name: Gabe Gibitz
+favicon: null
+layout_spectrum: 0.5956291288603097
+typography_spectrum: 0.3860977420117706
+title: Gabe Gibitz - Worship Leader. Psalmist. Revivalist.
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#B8B42D'
@@ -8,11 +24,6 @@ color:
     - '#DD403A'
   brandStrength: 0.42318256525322795
   lightness: 0.8973353235051036
-  rhythmicContrast: 0.315990794217214
   saturation: 0.8610802553594112
-cta: {}
-layout_spectrum: 0.5956291288603097
-name: Gabe Gibitz
-opengraph: {}
+  rhythmicContrast: 0.315990794217214
 purpose: []
-typography_spectrum: 0.3860977420117706
