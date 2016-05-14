@@ -1,6 +1,6 @@
 name: Gabe Gibitz
 favicon: null
-layout_spectrum: 0.5956291288603097
+layout_spectrum: 0.01245
 typography_spectrum: 0.3860977420117706
 title: Gabe Gibitz - Worship Leader. Psalmist. Revivalist.
 cta:
@@ -22,7 +22,7 @@ color:
     - '#656157'
     - '#0081ce'
     - '#05418b'
-  brandStrength: 0.75
+  brandStrength: 0.1875
   lightness: 0.0625
   saturation: 0.125
   rhythmicContrast: 0.75
