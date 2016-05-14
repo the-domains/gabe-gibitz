@@ -1,0 +1,28 @@
+name: Gabe Gibitz
+favicon: null
+layout_spectrum: 0.5956291288603097
+typography_spectrum: 0.3860977420117706
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.42318256525322795
+  lightness: 0.8973353235051036
+  saturation: 0.8610802553594112
+  rhythmicContrast: 0.315990794217214
+purpose: []
