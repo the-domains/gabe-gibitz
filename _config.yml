@@ -7,7 +7,7 @@ color:
     - '#0081ce'
     - '#05418b'
   brandStrength: 0
-  lightness: 0.0625
+  lightness: 0
   rhythmicContrast: 0
   saturation: 0
 cta: {}
