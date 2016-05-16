@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Gabe Gibitz - Worship Leader. Psalmist. Revivalist.]]></title>
-        <description><![CDATA[Gabe Gibitz - Worship Leader. Psalmist. Revivalist.]]></description>
+        <title><![CDATA[Gabe Gibitz]]></title>
+        <description><![CDATA[Gabe Gibitz]]></description>
         <link>https://thegrid.ai/gabe-gibitz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 14 May 2016 19:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 May 2016 00:18:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/gabe-gibitz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/gabe-gibitz/fbd5f825-d668-49cc-a3ea-9965b178a485/index.html</link>
             <guid isPermaLink="false">fbd5f825-d668-49cc-a3ea-9965b178a485</guid>
             <pubDate>Sat, 14 May 2016 18:39:52 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>A revival may be expected when Christians have a spirit of prayer for a revival -- when they have a real travail of soul.-Charles Finney</p>]]></description>
+            <link>https://thegrid.ai/gabe-gibitz/charles-finney/index.html</link>
+            <guid isPermaLink="false">94f56cdb-b7e1-41c4-8e33-db58657cc509</guid>
+            <pubDate>Mon, 16 May 2016 00:18:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Psalmist at Heart]]></title>
@@ -26,13 +33,6 @@
             <link>https://thegrid.ai/gabe-gibitz/about-the-psalmist/index.html</link>
             <guid isPermaLink="false">dede7adc-739f-47ba-9ac4-b7f90c70a5cb</guid>
             <pubDate>Sat, 14 May 2016 19:18:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Charles Finney</p>]]></description>
-            <link>https://thegrid.ai/gabe-gibitz/charles-finney/index.html</link>
-            <guid isPermaLink="false">94f56cdb-b7e1-41c4-8e33-db58657cc509</guid>
-            <pubDate>Sat, 14 May 2016 19:17:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Christmas Lights]]></title>
