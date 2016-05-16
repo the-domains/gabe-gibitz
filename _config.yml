@@ -1,17 +1,17 @@
-typography_spectrum: 0.3860977420117706
+typography_spectrum: 0.09741265466436744
 color:
   brandColors:
-    - '#171612'
-    - '#dddad2'
-    - '#656157'
-    - '#0081ce'
-    - '#05418b'
-  brandStrength: 0
-  lightness: 0
-  rhythmicContrast: 0
-  saturation: 0
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+  brandStrength: 0.3709324433002621
+  lightness: 0.8208326124586165
+  rhythmicContrast: 0.2975103866774589
+  saturation: 0.6903672215994447
 opengraph: {}
-layout_spectrum: 1
+layout_spectrum: 0.11121420515701175
 analytics: {}
 author:
   name: Gabe Gibitz
