@@ -1,4 +1,4 @@
-analytics: {}
+typography_spectrum: 0.3860977420117706
 color:
   brandColors:
     - '#171612'
@@ -10,9 +10,14 @@ color:
   lightness: 0
   rhythmicContrast: 0
   saturation: 0
-cta: {}
-layout_spectrum: 1
-name: Gabe Gibitz
 opengraph: {}
+layout_spectrum: 1
+analytics: {}
+author:
+  name: Gabe Gibitz
+  email: gibitzga@gmail.com
+  url: gabegibitz.com
+name: Gabe Gibitz
+cta: {}
+title: Worship Leader. Psalmist. Revivalist.
 purpose: []
-typography_spectrum: 0.3860977420117706
